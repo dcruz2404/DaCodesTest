@@ -1,10 +1,9 @@
 # DaCodesTest
 Proyecto prueba para DaCodes
+Ejercicio de Logica.
 
-1.-debe iniciar la base de datos mongoDB.
-2.-debe entrar mediante consola al directorio rais de la API RESTFUL
-3.- iniciar API RESTFUL mediante el comando npm run dev
-4.- iniciar Server de Interfaz accedientdo del directorio raiz a la carpeta /src/client 
-5.- una vez en la raiz de la interfaz configurada iniciar mediante el comando en consola ng serve
-6.- abrir explorador en la URL http://localhost:4200
-7.- probar la aplicacion
+1.-debe descargar el proyecto e iniciarlo en VisualStudio.
+2.-Para iniciar el programa debe compilarlo.
+3.- Para visualizar el recorrido de la matriz debe definirlo para mostrar el recorrido, debera poner en el input "(0,0), (1,2)".
+4.- Una vez establecidos los puntos, debera iniciarlo con el boton.
+5.- ene el output establecera en que direccion termino el recorrido.
